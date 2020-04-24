@@ -1,0 +1,17 @@
+{
+  "name": "login2",
+  "displayName": "login2",
+  "expo": {
+    "name": "login2",
+    "slug": "login2",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
